@@ -1,10 +1,10 @@
 {
-  "name": "my_random_package",
+  "name": "ivan_hunter_random_package",
   "version": "1.0.0",
   "description": "This Package provides the following: generation of a random integer, generate a random floating point number, generation of a random string and random key generation of specified length.",
-  "repository": "",
+  "repository": "https://github.com/7Hunter7/Node.js_DZ.git",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./random.js"
   },
   "author": "Ivan Kalugin",
   "license": "ISC"

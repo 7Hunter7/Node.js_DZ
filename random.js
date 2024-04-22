@@ -34,4 +34,4 @@ function randomKey(length) {
   return randomKey;
 }
 
-modules.exports = { randomInt, randomFloat, randomString, randomKey };
+module.exports = { randomInt, randomFloat, randomString, randomKey };
